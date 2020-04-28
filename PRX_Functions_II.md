@@ -161,7 +161,7 @@ either ‘r’ or ‘n’, then ‘x’.
 
   - strings like ‘Marxist’ or ‘MinxManxMunx’ will match this pattern.
 
-## Grouping example . ..
+## Grouping example . .. 
 
 `"/Ma(tri|r|n)x/"`
 
