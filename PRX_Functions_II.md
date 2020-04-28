@@ -1,7 +1,7 @@
 PRX Functions
 ================
 James .M. Wanja.
-Created: 2/21/2020
+Created: 21Feb2020.
 
 ## References.
 
