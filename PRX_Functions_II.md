@@ -306,7 +306,7 @@ run;
 
 <br>
 
-<img src="image/have.PNG" width="600">
+<img src="image/have.PNG" width="400">
 
 </center>
 
@@ -329,7 +329,7 @@ run;
 
 <hr>
 
-<br> <img src="image/want.PNG">
+<br> <img src="image/want.PNG" width="500">
 
 </center>
 
@@ -367,7 +367,7 @@ run;
 
 <hr>
 
-<br> <img src="image/want2.PNG">
+<br> <img src="image/want2.PNG" width="500">
 
 </center>
 
@@ -403,7 +403,7 @@ run;
 
 <hr>
 
-<br> <img src="image/want3.PNG">
+<br> <img src="image/want3.PNG" width="500">
 
 </center>
 
@@ -449,7 +449,7 @@ run;
 
 <br>
 
-<img src="image/want4.PNG">
+<img src="image/want4.PNG" width="500">
 
 ## PRXPAREN.
 
@@ -481,7 +481,7 @@ run;
 
 <center>
 
-<img src="image/want5.PNG">
+<img src="image/want5.PNG" width="500">
 
 </center>
 
@@ -547,11 +547,11 @@ run;
 
 <br>
 
-<img src="image/wanta.PNG" width="400">
+<img src="image/wanta.PNG" width="300">
 
 <hr>
 
-<br> <img src="image/wantb.PNG" width="400">
+<br> <img src="image/wantb.PNG" width="300">
 
 </center>
 
@@ -594,7 +594,7 @@ run;
 
 <hr>
 
-<br> <img src="image/wantc.PNG">
+<br> <img src="image/wantc.PNG" width="700">
 
 </center>
 
@@ -650,7 +650,7 @@ run;
 
 <hr>
 
-<br> <img src="image/log.PNG" width="450">
+<br> <img src="image/log.PNG" width="250" height="200">
 
 </center>
 
@@ -698,7 +698,7 @@ run;
 
 <br>
 
-<img src="image/wantd.PNG">
+<img src="image/wantd.PNG" width="700">
 
 ## 
 
@@ -708,13 +708,13 @@ run;
 
 <hr>
 
-<br>
+<br> <strong>
 
 <center>
 
 <code>
 
-<p style="font-size:50px; color:blue;">
+<p style="font-size:80px; color:blue;">
 
 prxparse(“/(Que)stions/”)
 
@@ -724,6 +724,6 @@ prxparse(“/(Que)stions/”)
 
 </center>
 
-<br>
+</strong> <br>
 
 <hr>
