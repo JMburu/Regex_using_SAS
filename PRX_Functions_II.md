@@ -74,7 +74,7 @@ This would `match` any string which contained ‘M’, two ‘word’
 characters, and an ‘x’. It would match:
 
   - ‘Marx’,
-  - ‘M96x’ and
+  - ‘M96x’ and,
   - ‘M\_1x’, since matches numbers and underscores as well.
 
 Be sure that your use of wildcards doesn’t lead to too many false
@@ -161,7 +161,7 @@ either ‘r’ or ‘n’, then ‘x’.
 
   - strings like ‘Marxist’ or ‘MinxManxMunx’ will match this pattern.
 
-## Grouping example . .. 
+## Grouping example . ..
 
 `"/Ma(tri|r|n)x/"`
 

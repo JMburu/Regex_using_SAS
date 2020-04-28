@@ -80,7 +80,7 @@ It would `not match`:
 This would `match` any string which contained ‘M’, two ‘word’ characters, and an ‘x’. It would match:
 
    - ‘Marx’,
-   - ‘M96x’ and 
+   - ‘M96x’ and, 
    - ‘M_1x’, since \w matches numbers and underscores as well.
    
    
