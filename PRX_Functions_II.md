@@ -306,7 +306,7 @@ run;
 
 <br>
 
-<img src="have.PNG" width="600">
+<img src="image/have.PNG" width="600">
 
 </center>
 
@@ -329,7 +329,7 @@ run;
 
 <hr>
 
-<br> <img src="want.PNG">
+<br> <img src="image/want.PNG">
 
 </center>
 
@@ -367,7 +367,7 @@ run;
 
 <hr>
 
-<br> <img src="want2.PNG">
+<br> <img src="image/want2.PNG">
 
 </center>
 
@@ -403,7 +403,7 @@ run;
 
 <hr>
 
-<br> <img src="want3.PNG">
+<br> <img src="image/want3.PNG">
 
 </center>
 
@@ -449,7 +449,7 @@ run;
 
 <br>
 
-<img src="want4.PNG">
+<img src="image/want4.PNG">
 
 ## PRXPAREN.
 
@@ -481,7 +481,7 @@ run;
 
 <center>
 
-<img src="want5.PNG">
+<img src="image/want5.PNG">
 
 </center>
 
@@ -547,11 +547,11 @@ run;
 
 <br>
 
-<img src="wanta.PNG" width="400">
+<img src="image/wanta.PNG" width="400">
 
 <hr>
 
-<br> <img src="wantb.PNG" width="400">
+<br> <img src="image/wantb.PNG" width="400">
 
 </center>
 
@@ -594,7 +594,7 @@ run;
 
 <hr>
 
-<br> <img src="wantc.PNG">
+<br> <img src="image/wantc.PNG">
 
 </center>
 
@@ -650,7 +650,7 @@ run;
 
 <hr>
 
-<br> <img src="log.PNG" width="450">
+<br> <img src="image/log.PNG" width="450">
 
 </center>
 
@@ -698,7 +698,7 @@ run;
 
 <br>
 
-<img src="wantd.PNG">
+<img src="image/wantd.PNG">
 
 ## 
 
